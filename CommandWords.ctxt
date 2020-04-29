@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ Cete\ classe\ fait\ parti\ du\ jeu\ "Le\ colis\ perdu"\r\n\ Cette\ classe\ permet\ la\ gestion\ des\ commandes\ du\ jeu\r\n\ \r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\ +\ D.Bureau\ +\ Th\u00E9o\ LEFEVRE\r\n\ @version\ 2008.03.30\ +\ 2013.09.15\ +\ 2019.05.08\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructeur\ par\ defaut\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Verifie\ si\ une\ String\ donnee\ fait\ partie\ des\ commandes\ valides.\ \r\n\ @param\ pString\ la\ String\ a\ tester\r\n\ @return\ true\ si\ pString\ est\ une\ comande\ valide,\ false\ sinon\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\r\n\ M\u00E9thode\ affichage\ liste\ des\ commandes\ valides.\ \r\n\ @return\ liste\ des\ commandes\ inscrites\ dans\ la\ liste\ des\ commandes\ valides\r\n
+numComments=4

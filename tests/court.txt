@@ -1,0 +1,9 @@
+take cigare
+drop cigare
+go vaisseau
+back
+help
+go cuisine
+take cookie
+eat cookie
+look

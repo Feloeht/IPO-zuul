@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Cete\ classe\ fait\ parti\ du\ jeu\ "Le\ colis\ perdu"\r\n\ Cette\ classe\ permet\ la\ cr\u00E9ation\ des\ objets\ de\ teleportation\ du\ jeu\r\n\ \r\n\ @author\ \ Th\u00E9o\ LEFEVRE\r\n\ @version\ 2019.05.08\r\n
+comment1.params=pDescription\ pPoids
+comment1.target=Beamer(java.lang.String,\ double)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Beamer\r\n\ @param\ pDescription\ Decription\ du\ Beamer\r\n\ @param\ pPoids\ Poids\ du\ Beamer\ dans\ inventaire\r\n
+comment2.params=
+comment2.target=Room\ getChargeRoom()
+comment2.text=\r\n\ Accesseur\ Room\ chargee\ par\ Beamer\r\n\ @return\ Salle\ chargee\ sous\ forme\ de\ Room\r\n
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment3.text=\r\n\ Accesseur\ Etat\ chargement\ Beamer\r\n\ @return\ Boolean,\ charge\ ou\ non\r\n
+comment4.params=pChargeRoom
+comment4.target=void\ chargeBeamer(Room)
+comment4.text=\r\n\ Procedure\ chargement\ Beamer\r\n\ @param\ pChargeRoom\ Room\ a\ charger\ dans\ le\ Beamer\r\n
+comment5.params=
+comment5.target=void\ dechargeBeamer()
+comment5.text=\r\n\ Procedure\ dechargement\ Beamer\r\n
+numComments=6

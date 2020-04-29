@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Cete\ classe\ fait\ parti\ du\ jeu\ "Le\ colis\ perdu"\r\n\ Cette\ classe\ permet\ la\ gestion\ et\ l'interpretation\ des\ commandes\ du\ jeu\r\n\ \r\n\ @author\ \ Th\u00E9o\ LEFEVRE\r\n\ @version\ 2019.05.08\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Natural\ constructor\r\n\ @param\ pCommandWord\ \ le\ mot\ de\ commande\r\n\ @param\ pSecondWord\ \ \ le\ second\ mot\ de\ commande\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Methode\ getCommandWord\r\n\ @return\ mot\ de\ commande\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Methode\ getSecondWord\r\n\ @return\ second\ mot\ de\ commande\r\n
+comment4.params=
+comment4.target=boolean\ isUnknown()
+comment4.text=\r\n\ Methode\ isUnknown\r\n\ @return\ True\ si\ CommandWord\ vaut\ null\ ou\ inconnue\r\n
+comment5.params=
+comment5.target=boolean\ hasSecondWord()
+comment5.text=\r\n\ Methode\ hasSecondWord\r\n\ @return\ True\ si\ secondWord\ existe\ ou\ false\ sinon\r\n
+numComments=6

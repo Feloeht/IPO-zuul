@@ -1,0 +1,32 @@
+go cuisine
+take cookie
+go couloir
+
+go laboratoire
+
+take lunettes
+
+back
+
+back
+
+go vaisseau
+
+go amphibios
+
+eat cookie
+go marais
+
+go marecage
+
+take carton
+
+back
+
+back
+
+go omicron
+
+go chateau
+
+drop carton

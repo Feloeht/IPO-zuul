@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Cete\ classe\ fait\ parti\ du\ jeu\ "Le\ colis\ perdu"\r\n\ Cette\ classe\ permet\ la\ cr\u00E9ation\ des\ Items\ du\ jeu\r\n\ \r\n\ @author\ \ Th\u00E9o\ LEFEVRE\r\n\ @version\ 2019.05.08\r\n
+comment1.params=pDescription\ pPoids
+comment1.target=Item(java.lang.String,\ double)
+comment1.text=\r\n\ Natural\ constructor\r\n\ @param\ pDescription\ \ Description\ de\ l'item\ \u00E0\ cr\u00E9er\r\n\ @param\ pPoids\ \ \ \ \ \ \ \ Poids\ de\ l'item\ \u00E0\ cr\u00E9er\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescriptionItem()
+comment2.text=\r\n\ Methode\ affichage\ description\ item\r\n\ @return\ Description\ de\ l'item\r\n
+comment3.params=
+comment3.target=double\ getPoidsItem()
+comment3.text=\r\n\ Methode\ affichage\ poids\ item\r\n\ @return\ Poids\ de\ l'item\r\n
+numComments=4

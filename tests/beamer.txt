@@ -1,0 +1,7 @@
+go couloir
+go observatoire
+take beamer
+charge beamer
+back
+back
+use beamer
